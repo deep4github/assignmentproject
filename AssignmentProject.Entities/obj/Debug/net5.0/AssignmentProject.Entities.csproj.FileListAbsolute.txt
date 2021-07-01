@@ -1,0 +1,36 @@
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\AssignmentProject.Entities.deps.json
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\AssignmentProject.Entities.dll
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\ref\AssignmentProject.Entities.dll
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\AssignmentProject.Entities.pdb
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.csproj.AssemblyReference.cache
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.AssemblyInfoInputs.cache
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.AssemblyInfo.cs
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.csproj.CoreCompileInputs.cache
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.dll
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\ref\AssignmentProject.Entities.dll
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.pdb
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\AssignmentProject.Entities.deps.json
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\AssignmentProject.Entities.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\ref\AssignmentProject.Entities.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\AssignmentProject.Entities.pdb
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.csproj.AssemblyReference.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.AssemblyInfoInputs.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.AssemblyInfo.cs
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\ref\AssignmentProject.Entities.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.pdb
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\AssignmentProject.Entities.deps.json
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\AssignmentProject.Entities.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\ref\AssignmentProject.Entities.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\bin\Debug\net5.0\AssignmentProject.Entities.pdb
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.csproj.AssemblyReference.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.AssemblyInfoInputs.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.AssemblyInfo.cs
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.csproj.CoreCompileInputs.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\ref\AssignmentProject.Entities.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.Entities\obj\Debug\net5.0\AssignmentProject.Entities.pdb

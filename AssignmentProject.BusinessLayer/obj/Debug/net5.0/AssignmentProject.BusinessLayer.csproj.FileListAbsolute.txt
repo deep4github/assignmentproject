@@ -1,0 +1,45 @@
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.BusinessLayer.deps.json
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.BusinessLayer.dll
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\ref\AssignmentProject.BusinessLayer.dll
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.BusinessLayer.pdb
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.Entities.dll
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.Entities.pdb
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.csproj.AssemblyReference.cache
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.AssemblyInfoInputs.cache
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.AssemblyInfo.cs
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.csproj.CopyComplete
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.dll
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\ref\AssignmentProject.BusinessLayer.dll
+C:\Pardeep Kumar\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.pdb
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.BusinessLayer.deps.json
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.BusinessLayer.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\ref\AssignmentProject.BusinessLayer.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.BusinessLayer.pdb
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.Entities.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.Entities.pdb
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.AssemblyInfo.cs
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.csproj.CopyComplete
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\ref\AssignmentProject.BusinessLayer.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\in\AssignmentProject\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.pdb
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.BusinessLayer.deps.json
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.BusinessLayer.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\ref\AssignmentProject.BusinessLayer.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.BusinessLayer.pdb
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.Entities.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\bin\Debug\net5.0\AssignmentProject.Entities.pdb
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.csproj.AssemblyReference.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.AssemblyInfoInputs.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.AssemblyInfo.cs
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.csproj.CopyComplete
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\ref\AssignmentProject.BusinessLayer.dll
+C:\Users\v-parkumar\OneDrive - Microsoft\Desktop\AssignmentProject\AssignmentProject\AssignmentProject.BusinessLayer\obj\Debug\net5.0\AssignmentProject.BusinessLayer.pdb
